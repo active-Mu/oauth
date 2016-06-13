@@ -91,7 +91,7 @@ int main (int argc, char **argv) {
   if (fail) {
     printf("\n !!! One or more of Eran's Test Cases failed.\n\n");
   } else {
-    printf(" *** Eran's Test-Cases verified sucessfully.\n");
+    printf(" *** Eran's Test-Cases verified successfully.\n");
   }
 
   return (fail?1:0);

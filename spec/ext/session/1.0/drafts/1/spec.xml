@@ -134,7 +134,7 @@
 	Consumers request access to Protected Resources as specified in <xref target="OAuth Core 1.0" /> Sections 6.1, 
 	6.2, and 6.3. Consumers obtain an Access Token, as defined in <xref target="OAuth Core 1.0" /> Section 6.3.2 and also 
 	an optional Authentication Session Handle that can be used to refresh the Access Token if it expires, 
-	or to update the Access Token if the Consumer needs to request additional priveleges.
+	or to update the Access Token if the Consumer needs to request additional privileges.
       </t>
       <t>
 	Consumers access Protected Resources as defined in <xref target="OAuth Core 1.0" /> Section 7. Consumers accessing

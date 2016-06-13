@@ -28,7 +28,7 @@
       <t>
         This specification extends the OAuth signature workflow to include
         HTTP request bodies. The OAuth Core signature workflow does not
-        guarentee the integrity of the HTTP body, with the exception of
+        guarantee the integrity of the HTTP body, with the exception of
         <spanx style="verb">application/x-www-form-urlencoded</spanx>
         content type bodies. This extension can be used in any request,
         regardless of the HTTP method, the content type, or body size.

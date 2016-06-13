@@ -42,7 +42,7 @@ oauth_http.c does not do any error-handling for instance, also SSL certificate c
 
 Therefore with the release of version 1.0.0 <strong>all <tt>oauth_http</tt> functions</strong> have been marked as <strong>deprecated</strong>.
 
-Developers of applications using <tt>oauth_http.c</tt> are advised to simply copy the relevent code into their application (the MIT license is very permissive) and adopt it, if neccesary.
+Developers of applications using <tt>oauth_http.c</tt> are advised to simply copy the relevant code into their application (the MIT license is very permissive) and adopt it, if neccesary.
 
 @section download Download
 

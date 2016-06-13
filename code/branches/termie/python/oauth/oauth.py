@@ -12,7 +12,7 @@ SIGNATURE_METHOD = 'PLAINTEXT'
 
 # Generic exception class
 class OAuthError(RuntimeError):
-    def __init__(self, message='OAuth error occured.'):
+    def __init__(self, message='OAuth error occurred.'):
         RuntimeError.__init__(self, message)
         self.message = message
 
