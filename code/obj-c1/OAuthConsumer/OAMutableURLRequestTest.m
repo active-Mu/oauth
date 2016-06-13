@@ -28,7 +28,7 @@
 
 #import "OAMutableURLRequestTest.h"
 
-// supress warnings for private methods
+// suppress warnings for private methods
 @interface OAMutableURLRequest (Private)
 - (NSString *)_signatureBaseString;
 - (void)_generateNonce;

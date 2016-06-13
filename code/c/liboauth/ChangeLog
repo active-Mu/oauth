@@ -91,7 +91,7 @@ version 0.8.3
 version 0.8.2
  fixed potential NULL pointer exception when sorting
  duplicate URL parameters without value. 
- It's a extremly rare edge-case - there's no practial
+ It's a extremly rare edge-case - there's no practical
  use for duplicate empty URL parameters - but it could
  be used as a DOS attack-vector.
 

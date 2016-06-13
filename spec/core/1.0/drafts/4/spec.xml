@@ -74,7 +74,7 @@
           <t>Sam Quigley (quigley@emerose.com)</t>
           <t>David Recordon (david@sixapart.com)</t>
           <t>Eran Sandler (eran@yedda.com)</t>
-          <t>Jonathan Sergent (sergent@google.com)</t>
+          <t>Jonathan Sergeant (sergeant@google.com)</t>
           <t>Todd Sieling (todd@ma.gnolia.com)</t>
           <t>Brian Slesinsky (brian-oauth@slesinsky.org)</t>
           <t>Andy Smith (andy@jaiku.com)</t>
@@ -1753,7 +1753,7 @@
       <reference anchor="SHA1">
         <front>
           <title>Finding SHA-1 Characteristics: General Results and Applications</title>
-          <author initials="C.DC" surname="De Cannière" fullname="Christophe De Cannière">
+          <author initials="C.DC" surname="De Canniï¿½re" fullname="Christophe De Canniï¿½re">
             <organization />
           </author>
           <author initials="C.R" surname="Rechberger" fullname="Christian Rechberger">

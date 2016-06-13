@@ -101,7 +101,7 @@ namespace OAuth {
         }
 
         /// <summary>
-        /// Internal function to cut out all non oauth query string parameters (all parameters not begining with "oauth_")
+        /// Internal function to cut out all non oauth query string parameters (all parameters not beginning with "oauth_")
         /// </summary>
         /// <param name="parameters">The query string part of the Url</param>
         /// <returns>A list of QueryParameter each containing the parameter name and value</returns>

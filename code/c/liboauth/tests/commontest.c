@@ -148,7 +148,7 @@ int test_sha1(char *c_secret, char *t_secret, char *base, char *expected) {
     printf("HMAC-SHA1 invalid. base:'%s' secrets:'%s'\n"
            " got: '%s' expected: '%s'\n", base, okey, b64d, expected);
     rv=1;
-  } else if (loglevel) printf("HMAC-SHA1 test sucessful.\n");
+  } else if (loglevel) printf("HMAC-SHA1 test successful.\n");
   free(b64d);
   free(okey);
   return (rv);

@@ -176,7 +176,7 @@ int main (int argc, char **argv) {
   if (fail) {
     printf("\n !!! One or more tests from http://wiki.oauth.net/TestCases failed.\n\n");
   } else {
-    printf(" *** http://wiki.oauth.net/TestCases verified sucessfully.\n");
+    printf(" *** http://wiki.oauth.net/TestCases verified successfully.\n");
   }
 
   return (fail?1:0);

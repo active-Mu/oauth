@@ -4,7 +4,7 @@
  * Tests of OAuthRequest
  *
  * The tests works by using OAuthTestUtils::build_request
- * to populare $_SERVER, $_GET & $_POST.
+ * to popular $_SERVER, $_GET & $_POST.
  *
  * Most of the base string and signature tests
  * are either very simple or based upon

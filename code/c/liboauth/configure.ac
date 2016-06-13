@@ -76,7 +76,7 @@ esac
 AC_SUBST(TEST_UNICODE)
 AC_SUBST(EXESUF)
 
-dnl *** misc complier/linker flags ***
+dnl *** misc compiler/linker flags ***
 LIBOAUTH_CFLAGS="-Wall"
 LIBOAUTH_LDFLAGS="${LIBOAUTH_CFLAGS} -export-symbols-regex '^oauth_.*'"
 #LIBOAUTH_CFLAGS="${LIBOAUTH_CFLAGS} -g -posix -std=c99 -pedantic"

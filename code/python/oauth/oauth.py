@@ -38,7 +38,7 @@ SIGNATURE_METHOD = 'PLAINTEXT'
 
 class OAuthError(RuntimeError):
     """Generic exception class."""
-    def __init__(self, message='OAuth error occured.'):
+    def __init__(self, message='OAuth error occurred.'):
         self.message = message
 
 def build_authenticate_header(realm=''):
